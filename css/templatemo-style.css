@@ -1,12 +1,7 @@
-@font-face {
-    font-family: 'Sticky Sans';
-    src: url('/PINGU/font/Sticky Sans.otf');
-}
-
 body {
     background: rgb(255, 255, 255);
     color: #000000;
-    font-family: 'Sticky Sans', Helvetica, Arial, sans-serif;
+    font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
     font-weight: 300;
     overflow-x: hidden;
 }
